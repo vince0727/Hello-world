@@ -1,0 +1,4 @@
+Roses are red, 
+Violets are blue, 
+Git is powerful, 
+And so are you.
